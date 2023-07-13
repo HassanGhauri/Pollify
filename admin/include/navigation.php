@@ -1,4 +1,4 @@
-    
+<!-- navigation links-->    
     <header>
         <a href="index.php?homepage=1" class="logo"><span>POLLIFY.</span></a>
         <ul class="navbar">
