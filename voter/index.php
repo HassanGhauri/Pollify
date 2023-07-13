@@ -109,7 +109,7 @@
 
 
 <script src="https://code.jquery.com/jquery-3.7.0.js" integrity="sha256-JlqSTELeR4TLqP0OG9dxM7yDPqX1ox/HfgiSLBj8+kM=" crossorigin="anonymous"></script>
-
+<!-- ajax function for voting-->
 <script>
     const CastVote = (election_id, customer_id, voters_id) => 
     {
